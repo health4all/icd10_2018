@@ -9,6 +9,8 @@ nAbbreviated description: "$2"\n\nFull description: "$4"\n"}' >> $n ; cat templa
 
 for n in `find med-repo/`; do cat templates/notices.txt >> $n; done
 
+cat repo.txt | awk -F ' ' '{print "rm -rf " $2 $3 $4 "; mkdir -p " $2 $3 $4 "; git clone ssh://git@github.com/" $2 $3 $4 " " $2 $3 $4 "; pushd " $2 $3 $4 "; for n in `find med-repo -type f`; do cp $n `echo $n | cut -d. -f1`." $2 ".md; done; find med-repo -type f | xargs git add; git commit -m \"Added " $2 " suffix\"; git push; popd; rm -rf " $2 $3 $4}'
+
 # Disclaimer 1 :
 The information in the document is not meant to be used first point of reference in any of the medical interventions.This is just a compilation of information for academic and knowledge purposes.
 
