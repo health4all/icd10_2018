@@ -1,0 +1,37 @@
+Health for all .
+It is the open access repository which can be accessed and contributed by anyone.
+
+This repository contains protocols, procedures, descriptions,cases etc..of various  falling broadly into three categories as  :
+1)Systems of the medicine,2) Futuristic health care  3) Conversational diagnosis.
+
+In the git hub the repository contains  16 organisations named ( the framework of distribution under above category is depicted in the picture) 
+Allopathy
+Homeopathy
+Ayurveda
+Unani
+Paramedical
+      6) Pharma 
+      7) Nursing 
+      8) Physiotherapy
+      9) digital health
+      10) IOT
+      11) Translational ( Journal club)
+      12) Blended reality 
+      13) genetics
+       14) biotech 
+       15) nanaotech.   
+       16) Conversational diagnosis
+      
+
+
+
+This health for all initiative repository aims to be a single platform for multidisciplinary pool of information with appropriate references.
+
+Contributors need to pile up the protocols, procedure, descriptions or cases with appropriate reference.
+Their identity for contribution will be made visible in the copyright sessions and this initiative aligns with ‘creative commons share alike contribution’.
+
+
+
+
+Currently the allopathy repository is filled with the ICD-10s codes for diseases  and the templates are made ready for the contribution.
+
