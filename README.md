@@ -1,3 +1,7 @@
+About Health4all repo :
+Health for all repo is a  collection of information about diseases along the spectrum of ICD`10 codes, from multiple perspectives and disciplines of healthcare and related technology. This is repo is based on github and finds multiple uses towards applications in digital health and advanced technologies like analytics ML, DL and medical robotics.
+
+
 # icd10_2018
 
 # Some helpful commands
